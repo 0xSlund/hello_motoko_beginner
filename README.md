@@ -51,3 +51,4 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 - Write your own `createActor` constructor# hello_motoko_beginner
 # hello_motoko_beginner
 # hello_motoko_beginner
+# Motoko_bootcamp_beginner
